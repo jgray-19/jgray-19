@@ -11,9 +11,9 @@
 ## About Me
 
 - 🔭 Working on beam optics corrections for the **LHC** at **CERN**
-- 🧲 Contributing to [**PyMAD-NG**](https://github.com/MethodicalAcceleratorDesign/MAD-NG.py) — the Python interface to MAD-NG
-- 🏥 Contributing to [**DECTSim**](https://github.com/lborophysics/DECTSim) — a dual energy CT simulator for research and teaching
-- 📉 Developing [**sgd-magnet-tuner**](https://github.com/jgray-19/sgd-magnet-tuner) — stochastic gradient-based magnetic field tuning
+- Developed and maintaining [**PyMAD-NG**](https://github.com/MethodicalAcceleratorDesign/MAD-NG.py) — the Python interface to MAD-NG
+- Developed for my Master's Project [**DECTSim**](https://github.com/lborophysics/DECTSim) — a dual energy CT simulator for research and teaching
+- 📉 Developing for my PhD [**sgd-magnet-tuner**](https://github.com/jgray-19/sgd-magnet-tuner) — stochastic gradient-based magnetic field tuning
 - 🐍 Primarily working in Python, with Lua and MATLAB
 
 ---
@@ -23,9 +23,9 @@
 | Project | Description | Tech |
 |--------|-------------|------|
 | [**PyMAD-NG**](https://github.com/MethodicalAcceleratorDesign/MAD-NG.py) | Python interface to the MAD-NG accelerator simulation framework | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) |
+| [**PyMAD-NG Utilities](https://github.com/jgray-19/pymadng-utils) | Extension of the based MAD-NG interface with some extra useful functions | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) |
 | [**DECTSim**](https://github.com/lborophysics/DECTSim) | GUI-controlled dual energy CT simulator for research and teaching | ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks&logoColor=white&style=flat-square) |
 | [**sgd-magnet-tuner**](https://github.com/jgray-19/sgd-magnet-tuner) | Stochastic gradient-based magnetic field tuning with MAD-NG | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) |
-| [**lhcng**](https://github.com/jgray-19/lhcng) | Utilities for combining MAD-NG and LHC optics workflows | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) |
 | [**madng-language**](https://github.com/jgray-19/madng-language) | VS Code syntax highlighting extension for MAD-NG | ![Lua](https://img.shields.io/badge/-Lua-2C2D72?logo=lua&logoColor=white&style=flat-square) |
 | [**tmom-recon**](https://github.com/jgray-19/tmom-recon) | Transfer matrix optics measurement and reconstruction | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) |
 
