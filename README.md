@@ -27,7 +27,7 @@
 | [**DECTSim**](https://github.com/lborophysics/DECTSim) | GUI-controlled dual energy CT simulator for research and teaching | ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks&logoColor=white&style=flat-square) |
 | [**sgd-magnet-tuner**](https://github.com/jgray-19/sgd-magnet-tuner) | Stochastic gradient-based magnetic field tuning with MAD-NG | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) |
 | [**madng-language**](https://github.com/jgray-19/madng-language) | VS Code syntax highlighting extension for MAD-NG | ![Lua](https://img.shields.io/badge/-Lua-2C2D72?logo=lua&logoColor=white&style=flat-square) |
-| [**tmom-recon**](https://github.com/jgray-19/tmom-recon) | Transfer matrix optics measurement and reconstruction | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) |
+| [**tmom-recon**](https://github.com/jgray-19/tmom-recon) | Transverse momentum reconstruction | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) |
 
 ---
 
