@@ -52,7 +52,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jgray-19&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgray-19&layout=compact&theme=tokyonight&hide_border=true&hide=Jupyter+Notebook" height="165"/>
+[![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=jgray-19)](https://github.com/jgray-19/github-readme-stats)
 
 </div>
