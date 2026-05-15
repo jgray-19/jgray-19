@@ -52,6 +52,6 @@
 
 <div align="center">
 
-[![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=jgray-19)](https://github.com/jgray-19/github-readme-stats)
+[![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=jgray-19)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
