@@ -12,7 +12,7 @@ Accelerator physicist at **CERN**, working on beam optics, accelerator modelling
 
 * 🔭 Working on beam optics corrections for the **LHC** at **CERN**
 * 🧲 Developing tools for accelerator modelling, tracking, momentum reconstruction, and magnet optimisation
-* 🐍 Primarily working in **Python**, with some projects in **Lua** and **MATLAB**
+* 🐍 Primarily working in **Python**, with some projects in **Lua**, **MATLAB** and **C**.
 * Developed and maintain [**PyMAD-NG**](https://github.com/MethodicalAcceleratorDesign/MAD-NG.py), the Python interface to MAD-NG
 * Developed [**DECTSim**](https://github.com/lborophysics/DECTSim), a dual-energy CT simulator for research and teaching, as my Master's project
 
