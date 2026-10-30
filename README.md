@@ -2,7 +2,7 @@
 
 # Hi, I'm Joshua 👋
 
-Accelerator physicist at **CERN**, working on beam optics, accelerator modelling, optimisation, and machine-learning applications for the **LHC**.
+Accelerator physicist, working on beam optics, accelerator modelling, optimisation, and machine-learning applications for accelerators at **CERN**.
 
 </div>
 
@@ -10,7 +10,7 @@ Accelerator physicist at **CERN**, working on beam optics, accelerator modelling
 
 ## About Me
 
-* 🔭 Working on beam optics corrections for the **LHC** at **CERN**
+* 🔭 Working on beam optics corrections for the **LHC** and **PSB** at **CERN**
 * 🧲 Developing tools for accelerator modelling, tracking, momentum reconstruction, and magnet optimisation
 * 🐍 Primarily working in **Python**, with some projects in **Lua**, **MATLAB** and **C**.
 * Developed and maintain [**PyMAD-NG**](https://github.com/MethodicalAcceleratorDesign/MAD-NG.py), the Python interface to MAD-NG
